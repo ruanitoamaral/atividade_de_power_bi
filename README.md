@@ -2,7 +2,7 @@
 Repositorio de exercicios em analise de dados
 📈 LISTA DE EXERCÍCIOS (NÍVEL PROGRESSIVO)
 🟢 Nível 1 – Básico
-
+update 1
 Criar uma medida de Faturamento Total
 
 Faturamento = SUMX(Vendas, Vendas[Quantidade] * Vendas[PrecoUnitario])
